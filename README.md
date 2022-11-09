@@ -1,7 +1,7 @@
 <h1 align="center">I'm Ryland</h1>
-<h3 align="center">Front-End Software Developer 📍 Oregon</h3>
+<h3 align="center">Full-Stack Software Developer 📍 Oregon</h3>
 
-- 🌱 I’m currently working with: **React, Redux**
+- 🌱 I’m currently working with: **React, Redux, Python**
 
 - 📫 How to reach me: **rylandadams@yahoo.com**
 
