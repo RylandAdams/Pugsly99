@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working with: **React, Redux, Python**
 
-- 📫 How to reach me: **rylandadams@yahoo.com**
+- 📫 How to reach me: **rylandadams@yahoo.com** || **(971) 241-8765**
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/rylandadams/](linkedin)
 
