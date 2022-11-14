@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/rylandadams/](linkedin)
 
-- 💻 When I am not at the keyboard: **I am making music 📻**
+- 💻 When I am not at the keyboard: **🎸 I am making music 📻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
