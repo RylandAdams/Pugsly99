@@ -1,7 +1,7 @@
 <h1 align="center">I'm Ryland</h1>
 <h3 align="center">Full-Stack Software Developer 📍 Eugene, Oregon</h3>
 
-- 🌱 I’m currently working with: **React, Redux, Sanity**
+- 🌱 I’m currently working with: **React, SQL, NodeJS**
 
 - 📫 How to reach me: **rylandadams@yahoo.com** || **(971) 241-8765**
 
