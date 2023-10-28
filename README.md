@@ -1,11 +1,15 @@
 <h1 align="center">I'm Ryland</h1>
-<h3 align="center">Full-Stack Software Developer 📍 Eugene, Oregon</h3>
+<h3 align="center">Front-End Software Engineer 📍 Eugene, Oregon</h3>
 
 - 🌱 I’m currently working with: **React, SQL, NodeJS**
 
-- 📫 How to reach me: **rylandadams@yahoo.com** || **(971) 241-8765**
+💻 Languages: JavaScript, HTML, CSS
+📚 Frameworks: React
+🔨 Tools: Redux, Webpack, Babel, Git
+🌐 Web Technologies: RESTful and GraphQL APIs
+🎨 UI/UX: Responsive Design, Material-UI, Bootstrap
 
-- 📄 Know about my experiences: [https://www.linkedin.com/in/rylandadams/](linkedin)
+- 📫 How to reach me: **rylandadams@yahoo.com** || **(971) 241-8765**
 
 - 💻 When I am not at the keyboard: **🎸 I am making music 📻**
 
