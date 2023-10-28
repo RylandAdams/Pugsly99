@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently working with: **React, SQL, NodeJS**
 
-💻 Languages: JavaScript, HTML, CSS
-📚 Frameworks: React
-🔨 Tools: Redux, Webpack, Babel, Git
-🌐 Web Technologies: RESTful and GraphQL APIs
-🎨 UI/UX: Responsive Design, Material-UI, Bootstrap
+- 💻 Languages: JavaScript, HTML, CSS
+- 📚 Frameworks: React
+- 🔨 Tools: Redux, Webpack, Babel, Git
+- 🌐 Web Technologies: RESTful and GraphQL APIs
+- 🎨 UI/UX: Responsive Design, Material-UI, Bootstrap
 
 - 📫 How to reach me: **rylandadams@yahoo.com** || **(971) 241-8765**
 
